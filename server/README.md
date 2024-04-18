@@ -13,6 +13,11 @@ Create a .env file to store your MongoDB database credentials
 ACCESS_TOKEN_SECRET= anycode....
 ```
 
+##localhost 
+```
+localhost:8000
+```
+
 ## Installation
 To run this project, install it locally using npm:
 
