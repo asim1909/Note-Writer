@@ -1,4 +1,4 @@
-# Recipe Blog - Using Node.js and MongoDB
+# NotesWriter api - Using Node.js and MongoDB
 
 ## Create config.json file
 Create a config.jso file to store your MongoDB database credentials
